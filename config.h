@@ -1,4 +1,4 @@
-#include <sstream>
+#include <iostream>
 const char config[] = "url=http://example.com\n"
                       "file=main.exe\n"
                       "true=0";
